@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 Aspiring Frontend Developer | HTML, CSS, JavaScript Enthusiast | Lifelong Learner
 
 <!--
 **tylub001/tylub001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- This ReadMe is still being worked on. Stay Tuned!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🚀 About Me:
+Passionate about building beautiful and functional web experiences.
+Currently learning JavaScript, HTML, and CSS to enhance my frontend skills.
+- 💡 What I'm Working On:
+Improving my JavaScript skills (loops, callbacks, real-world use cases).
+Building a cafe website and a To-do List App.
+Exploring frontend best practices and user-friendly UI design.
+- 🛠 Tech Stack:
+HTML | CSS | JavaScript
+Working on JS interactivity and logic
+Interested in React & UI frameworks
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📌 Let's Connect!
+[Your Email or Twitter/LinkedIn]
+[Your Portfolio (if any)]
+Open to collaborations & discussions on frontend projects!
+- ⚡ Fun fact: 
 -->
