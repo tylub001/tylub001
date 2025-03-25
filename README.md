@@ -1,8 +1,5 @@
 # Hi there 👋 Aspiring Frontend Developer | HTML, CSS, JavaScript Enthusiast | Lifelong Learner
 
-<!--
-**tylub001/tylub001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - This ReadMe is still being worked on. Stay Tuned!
 
  🚀 About Me:
@@ -22,4 +19,4 @@ Interested in React & UI frameworks
 [Your Portfolio (if any)]
 Open to collaborations & discussions on frontend projects!
 - ⚡ Fun fact: 
--->
+
