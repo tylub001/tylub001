@@ -1,4 +1,4 @@
-# Hi there 👋 Aspiring Frontend Developer | HTML, CSS, JavaScript Enthusiast | Lifelong Learner
+# Hi there 👋 Frontend Developer | HTML, CSS, JavaScript Enthusiast | Lifelong Learner
 
 - This ReadMe is still being worked on. Stay Tuned!
 
