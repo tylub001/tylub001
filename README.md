@@ -75,6 +75,8 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
       <br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/PokéAPI-Data%20Source-FFCB05?logo=pokemon&logoColor=white&style=flat-square" />
+
     </td>
   </tr>
 <tr>
