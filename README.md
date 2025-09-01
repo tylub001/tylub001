@@ -81,7 +81,7 @@
     <!-- WDWR -->
     <td align="center" width="33%">
       <h4>🌟 WDWR</h4>
-      <a href="https://tylub001.github.io/wdwr/">
+      <a href="https://btwdwr.jumpingcrab.com/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
       <br><strong>Design. Deploy. Discover.</strong>
