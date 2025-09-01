@@ -76,8 +76,7 @@
       <br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
     </td>
-  </table>
-<table>
+
     <!-- WDWR -->
     <td align="center" width="33%">
       <h4>🌟 WDWR</h4>
@@ -93,8 +92,7 @@
       <br>
       <img src="https://img.shields.io/badge/GitHub-Pages-222222?logo=github&logoColor=white&style=flat-square" />
     </td>
-    </table>
-<table>
+
     <!-- BreatheWell -->
     <td align="center" width="33%">
       <h4>🌟 BreatheWell</h4>
@@ -112,6 +110,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
