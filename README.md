@@ -101,7 +101,7 @@
     <!-- BreatheWell -->
     <td align="center" width="33%">
       <h4>🌟 BreatheWell</h4>
-      <a href="https://tylub001.github.io/calmcoders2025/">
+      <a href="https://tylub001.github.io/CalmCoders2025/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
       <br><strong>Track. Breathe. Reflect.</strong>
