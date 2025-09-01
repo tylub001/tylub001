@@ -114,9 +114,19 @@
 
 </table>
 
+<h2 align="center">📫 Let's Connect</h2>
 
+<p align="center"><em>I’d love to collaborate or chat about tech!</em></p>
 
-
-Open to collaborations & discussions on frontend projects!
-- ⚡ Fun fact: 
+<p align="center">
+  <a href="mailto:tylub001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/brittany-tylutke-27418a34a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://tylub001.github.io/portfolio3.0/">
+    <img src="https://img.shields.io/badge/Portfolio-green?logo=firefox&style=for-the-badge" alt="Portfolio Badge" />
+  </a>
+</p>
 
