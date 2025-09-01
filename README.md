@@ -78,7 +78,6 @@
 <br>
 <img src="https://img.shields.io/badge/PokéAPI-FFCB05?logo=pokemon&logoColor=white&style=flat-square" />
 
-    </td>
   </tr>
 <tr>
     <!-- WDWR -->
