@@ -64,7 +64,7 @@
     <!-- PokémonDB -->
     <td align="center" width="33%">
       <h4>🌟 PokemonDB</h4>
-      <a href="https://tylub001.github.io/pokemon-db/">
+      <a href="https://tylub001.github.io/pokemonDB/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
       <br><strong>Search. Sort. Explore.</strong>
@@ -98,7 +98,7 @@
     <!-- BreatheWell -->
     <td align="center" width="33%">
       <h4>🌟 BreatheWell</h4>
-      <a href="https://tylub001.github.io/breathewell/">
+      <a href="https://tylub001.github.io/calmcoders2025/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
       <br><strong>Track. Breathe. Reflect.</strong>
