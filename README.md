@@ -76,7 +76,8 @@
       <br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
     </td>
-
+  </tr>
+<tr>
     <!-- WDWR -->
     <td align="center" width="33%">
       <h4>🌟 WDWR</h4>
@@ -91,8 +92,9 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
       <br>
       <img src="https://img.shields.io/badge/GitHub-Pages-222222?logo=github&logoColor=white&style=flat-square" />
+   </tr>
     </td>
-
+<tr>
     <!-- BreatheWell -->
     <td align="center" width="33%">
       <h4>🌟 BreatheWell</h4>
@@ -107,8 +109,9 @@
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
       <br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-    </td>
-  </tr>
+</tr>
+</td>
+
 </table>
 
 
