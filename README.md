@@ -40,6 +40,16 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite Badge" />
 </p>
 
+<h3 align="center">☁️ Cloud & DevOps</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="GCP Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge" alt="DigitalOcean Badge" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" alt="Railway Badge" />
+</p>
+
+
 
 
 Open to collaborations & discussions on frontend projects!
