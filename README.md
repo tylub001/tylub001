@@ -59,7 +59,7 @@
 
 <h2 align="center">🌟 Featured Projects</h2>
 
-<table>
+<table align="center">
   <tr>
     <!-- PokémonDB -->
     <td align="center" width="33%">
