@@ -87,7 +87,7 @@
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
       <br><strong>Design. Deploy. Discover.</strong>
-      <br><em>Portfolio-style site showcasing creative web builds.</em>
+      <br><em>Set up a profile and save your clothing items that will render based on weather condition.</em>
       <br><br>
 <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square" />
 <br>
