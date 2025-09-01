@@ -77,39 +77,38 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
     </td>
 
-     <tr>
-    <!-- PokémonDB -->
+    <!-- WDWR -->
     <td align="center" width="33%">
-      <h4 align="center">🌟 PokemonDB</h4>
-      <a href="https://tylub001.github.io/pokemon-db/">
+      <h4 align="center">🌟 WDWR</h4>
+      <a href="https://tylub001.github.io/wdwr/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
-      <br><strong>Search. Sort. Explore.</strong>
-      <br><em>Interactive Pokémon database with dynamic filtering.</em>
+      <br><strong>Design. Deploy. Discover.</strong>
+      <br><em>Portfolio-style site showcasing creative web builds.</em>
       <br><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
       <br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-Pages-222222?logo=github&logoColor=white&style=flat-square" />
     </td>
 
-     <tr>
-    <!-- PokémonDB -->
+    <!-- BreatheWell -->
     <td align="center" width="33%">
-      <h4 align="center">🌟 PokemonDB</h4>
-      <a href="https://tylub001.github.io/pokemon-db/">
+      <h4 align="center">🌟 BreatheWell</h4>
+      <a href="https://tylub001.github.io/breathewell/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
-      <br><strong>Search. Sort. Explore.</strong>
-      <br><em>Interactive Pokémon database with dynamic filtering.</em>
+      <br><strong>Track. Breathe. Reflect.</strong>
+      <br><em>Wellness tracker for mindful breathing and journaling.</em>
       <br><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-      <br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
       <br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
     </td>
+  </tr>
 </table>
 
 
