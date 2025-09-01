@@ -1,19 +1,9 @@
-# Hi there 👋 Frontend Developer | HTML, CSS, JavaScript Enthusiast | Lifelong Learner
+<h1 align="center">👋 Brittany Tylutke</h1>
 
-- This ReadMe is still being worked on. Stay Tuned!
+<p align="center"><strong>Full Stack Engineer • Web Developer • Scranton, PA</strong></p>
 
- 🚀 About Me:
-Passionate about building beautiful and functional web experiences.
-Currently learning JavaScript, HTML, and CSS to enhance my frontend skills.
- 💡 What I'm Working On:
-Improving my JavaScript skills (loops, callbacks, real-world use cases).
-Building a cafe website and a To-do List App.
-Exploring frontend best practices and user-friendly UI design.
- 🛠 Tech Stack:
-HTML | CSS | JavaScript
-Working on JS interactivity and logic
-Interested in React & UI frameworks
- 🤔 I’m looking for help with ...
+<p align="center"><em>Building scalable web applications with creativity and strategic vision.</em></p>
+
  📌 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/brittany-tylutke-27418a34a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=firefox)](https://tylub001.github.io/portfolio3.0/)
