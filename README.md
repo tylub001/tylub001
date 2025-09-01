@@ -49,6 +49,17 @@
   <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" alt="Railway Badge" />
 </p>
 
+<h3 align="center">🤖 AI & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-5D5FEF?logo=cursor&logoColor=white&style=for-the-badge" alt="Cursor Badge" />
+</p>
+
+<hr />
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+
 
 
 
