@@ -61,8 +61,9 @@
 
 <table>
   <tr>
-    <h4 align="center">🌟 PokemonDB</h4>
+    <!-- PokémonDB -->
     <td align="center" width="33%">
+      <h4 align="center">🌟 PokemonDB</h4>
       <a href="https://tylub001.github.io/pokemon-db/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
@@ -76,8 +77,9 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
     </td>
 
-    <h4 align="center">🌟 WDWR</h4>
+    <!-- WDWR -->
     <td align="center" width="33%">
+      <h4 align="center">🌟 WDWR</h4>
       <a href="https://tylub001.github.io/wdwr/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
@@ -91,8 +93,9 @@
       <img src="https://img.shields.io/badge/GitHub-Pages-222222?logo=github&logoColor=white&style=flat-square" />
     </td>
 
-     <h4 align="center">🌟 Breathewell</h4>
+    <!-- BreatheWell -->
     <td align="center" width="33%">
+      <h4 align="center">🌟 BreatheWell</h4>
       <a href="https://tylub001.github.io/breathewell/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
@@ -107,8 +110,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 
