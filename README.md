@@ -64,7 +64,7 @@
     <!-- PokémonDB -->
     <td align="center" width="33%">
       <h4>🌟 PokemonDB</h4>
-      <a href="https://tylub001.github.io/pokemonDB/">
+      <a href="https://pokefinal.jumpingcrab.com/">
         <img src="https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&style=for-the-badge" alt="Live Demo" />
       </a>
       <br><strong>Search. Sort. Explore.</strong>
