@@ -110,8 +110,6 @@
       <br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
     </td>
-
-
 </table>
 
 
