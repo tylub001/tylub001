@@ -6,15 +6,16 @@
 
 <p align="center">
   <a href="mailto:tylub001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tylub001@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" alt="Email Badge" />
   </a>
   <a href="https://www.linkedin.com/in/brittany-tylutke-27418a34a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
   <a href="https://tylub001.github.io/portfolio3.0/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=firefox&style=for-the-badge" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-green?logo=firefox&style=for-the-badge" alt="Portfolio Badge" />
   </a>
 </p>
+
 
 
 Open to collaborations & discussions on frontend projects!
