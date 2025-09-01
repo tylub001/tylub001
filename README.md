@@ -15,7 +15,7 @@ Working on JS interactivity and logic
 Interested in React & UI frameworks
  🤔 I’m looking for help with ...
  📌 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/brittany-tylutke-27418a34a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=firefox)](https://tylub001.github.io/portfolio3.0/)
 
 Open to collaborations & discussions on frontend projects!
