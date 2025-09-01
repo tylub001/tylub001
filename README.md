@@ -70,11 +70,14 @@
       <br><strong>Search. Sort. Explore.</strong>
       <br><em>Interactive Pokémon database with dynamic filtering.</em>
       <br><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-      <br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/PokéAPI-FFCB05?logo=pokemon&logoColor=white&style=flat-square" />
+
     </td>
   </tr>
 <tr>
